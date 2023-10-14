@@ -13,4 +13,4 @@ Hello, I am an experienced technology professional with a background as a system
 
 #### Contacts
 - e-mail: joaovvs@gmail.com
-- linkedin: https://www.linkedin.com/in/jo%C3%A3o-vin%C3%ADcius-ba79178/ 
+- linkedin: linkedin.com/in/joão-vinícius-ba79178/ 
