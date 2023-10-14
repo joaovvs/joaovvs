@@ -1,16 +1,16 @@
-### Hi there 👋
+#### About
+Hello, I am an experienced technology professional with a background as a systems analyst, boasting a decade of expertise in the field. I am currently enhancing my skill set by studying HTML5, CSS, JavaScript, and ReactJS at [Rocketseat](https://rocketseat.com.br/), with the aim of becoming a full-stack developer.
 
-<!--
-**joaovvs/joaovvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 
-Here are some ideas to get you started:
+#### Current stack
+- Main language: `Javascript`
+-  Backend: `Nodejs`
+-  Frontend: `Reactjs`, `HTML5`, `CSS3`, `Javascript`
+- Layout Design: `Figma`
+- Version code control: `Git & Github`
+- Tools: `VsCode`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contacts
+- e-mail: joaovvs@gmail.com
+- linkedin: https://www.linkedin.com/in/jo%C3%A3o-vin%C3%ADcius-ba79178/ 
