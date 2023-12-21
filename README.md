@@ -13,4 +13,8 @@ Hello, I am an experienced technology professional with a background as a system
 
 #### Contacts
 - ✉️ e-mail: joaovvs@gmail.com
-- 👤 linkedin: https://www.linkedin.com/in/joão-vinícius-ba79178/ 
+- 👤 linkedin: https://www.linkedin.com/in/joão-vinícius-ba79178/
+
+#### Github stats
+
+[![Joaovvs's GitHub stats](https://github-readme-stats-2s6kohm2z-joao-vinicius-projects.vercel.app/api?username=anuraghazra)](https://github.com/joaovvs/github-readme-stats)
