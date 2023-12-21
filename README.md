@@ -16,7 +16,7 @@ Hello, I am an experienced technology professional with a background as a system
 - 👤 linkedin: https://www.linkedin.com/in/joão-vinícius-ba79178/
 
 #### Github stats
-[![Joaovvs's GitHub stats](https://github-readme-stats-2s6kohm2z-joao-vinicius-projects.vercel.app/api?username=joaovvs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Joaovvs's GitHub stats](https://github-readme-stats-2s6kohm2z-joao-vinicius-projects.vercel.app/api/?username=joaovvs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovvs&layout=pie&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
